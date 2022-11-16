@@ -4577,15 +4577,15 @@ _*🇯🇵 : このボットの機能のリスト*_.
 
 * ──「 Timzz BOT 」──*
 
-*⫹⫺ Bot Name : Timzz-Bot
-⫹⫺ Library : Baileys-MD
-⫹⫺ Version : 4.0.4
-⫹⫺ Language : Javascript
-⫹⫺ Recoder : TimzzDev
-⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
-⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}                
-⫹⫺ Bot Mode : Public Mode
-⫹⫺ Fitur : 200*
+*⫹⫺ Bot Name : Timzz-Bot*
+*⫹⫺ Library : Baileys-MD*
+*⫹⫺ Version : 4.0.4*
+*⫹⫺ Language : Javascript*
+*⫹⫺ Recoder : TimzzDev*
+*⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}*
+*⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}*                
+*⫹⫺ Bot Mode : Public Mode*
+*⫹⫺ Fitur : 200*
 
 *GROUP MENU*
  ≻  ${prefix}linkgroup
